@@ -4,11 +4,11 @@
 
 <div align="left" markdown="1">
 
-<a href="https://www.linkedin.com/in/raikartik186">Follow on LinkedIn</a><br>
-<a href="https://chat.whatsapp.com/BEt4vAcsgAA9bx495BRWaH">Join Coder Community</a><br>    
-<a href="https://www.instagram.com/underratedcoder">Follow on Instagram</a><br>
-<a href="https://twitter.com/underratedcoder">Follow on Twitter</a><br>
-<a href="https://topmate.io/raikartik186">Connect on Topmate</a>
+<a href="https://www.linkedin.com/in/raikartik186" target="_blank">Follow on LinkedIn</a><br>
+<a href="https://chat.whatsapp.com/BEt4vAcsgAA9bx495BRWaH" target="_blank">Join Coder Community</a>   
+<a href="https://www.instagram.com/underratedcoder" target="_blank">Follow on Instagram</a><br>
+<a href="https://twitter.com/underratedcoder" target="_blank">Follow on Twitter</a><br>
+<a href="https://topmate.io/raikartik186" target="_blank">Connect on Topmate</a> 
 </div>
 
 ## Resources
